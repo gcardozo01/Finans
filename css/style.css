@@ -1,0 +1,20 @@
+#home {
+  background: #ffc107;
+  color: #fff;
+}
+
+/*Correção de bug em celulares*/
+#title {
+  font-size: 3rem;
+  font-weight: lighter;
+}
+/*----------------------------*/
+
+.box {
+  padding: 60px 0px;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+footer p a {
+  margin: 5px;
+}
